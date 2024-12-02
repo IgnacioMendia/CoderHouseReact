@@ -1,0 +1,21 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .background-container {
+    height: 100vh;
+    background: url('../../assets/lifestyle-man-home-with-laptop.jpg') no-repeat center center;
+    background-size: cover;
+    display: flex;
+    align-items: center; 
+    justify-content: start; 
+    padding-left: 20px;
+  }
+  
+  .left-text {
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }

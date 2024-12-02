@@ -1,0 +1,12 @@
+.badge {
+    font-size: 0.8rem;
+    min-width: 1.5rem;
+    height:  1.5rem;
+    line-height: 1.1rem;
+    transform: translate(-50%, -50%) !important;
+    margin-top: 8px;
+}
+
+button {
+    padding: 0;
+}
